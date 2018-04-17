@@ -1,0 +1,2 @@
+# ideify
+Idea management software
