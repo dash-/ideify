@@ -1,2 +1,2 @@
 # ideify
-Idea management software
+Product, business, and marketing idea management software
